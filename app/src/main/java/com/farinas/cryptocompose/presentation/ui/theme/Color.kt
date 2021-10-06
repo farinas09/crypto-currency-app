@@ -1,4 +1,4 @@
-package com.farinas.cryptocompose.ui.theme
+package com.farinas.cryptocompose.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
